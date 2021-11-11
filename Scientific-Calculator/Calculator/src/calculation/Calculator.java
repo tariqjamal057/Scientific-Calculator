@@ -80,7 +80,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setBackground(new java.awt.Color(51, 0, 0));
+        jButton1.setBackground(new java.awt.Color(0, 255 , 0));
         jButton1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton1.setText("log");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -89,7 +89,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setBackground(new java.awt.Color(51, 0, 0));
+        jButton2.setBackground(new java.awt.Color(0, 255 , 0));
         jButton2.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton2.setText("cos");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -98,7 +98,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setBackground(new java.awt.Color(51, 0, 0));
+        jButton3.setBackground(new java.awt.Color(0, 255 , 0));
         jButton3.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton3.setText("sin");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -107,7 +107,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton4.setBackground(new java.awt.Color(51, 0, 0));
+        jButton4.setBackground(new java.awt.Color(0, 255 , 0));
         jButton4.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton4.setText("sqrt");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
@@ -116,7 +116,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton5.setBackground(new java.awt.Color(51, 0, 0));
+        jButton5.setBackground(new java.awt.Color(0, 255 , 0));
         jButton5.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton5.setText("tan");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
@@ -125,7 +125,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton6.setBackground(new java.awt.Color(51, 0, 0));
+        jButton6.setBackground(new java.awt.Color(0, 255 , 0));
         jButton6.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton6.setText("x^2");
         jButton6.addActionListener(new java.awt.event.ActionListener() {
@@ -134,7 +134,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton7.setBackground(new java.awt.Color(51, 0, 0));
+        jButton7.setBackground(new java.awt.Color(0, 255 , 0));
         jButton7.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton7.setText("exp");
         jButton7.addActionListener(new java.awt.event.ActionListener() {
@@ -143,7 +143,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton8.setBackground(new java.awt.Color(51, 0, 0));
+        jButton8.setBackground(new java.awt.Color(0, 255 , 0));
         jButton8.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton8.setText("cosh");
         jButton8.addActionListener(new java.awt.event.ActionListener() {
@@ -152,7 +152,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton9.setBackground(new java.awt.Color(51, 0, 0));
+        jButton9.setBackground(new java.awt.Color(0, 255 , 0));
         jButton9.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton9.setText("sinh");
         jButton9.addActionListener(new java.awt.event.ActionListener() {
@@ -161,7 +161,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton10.setBackground(new java.awt.Color(51, 0, 0));
+        jButton10.setBackground(new java.awt.Color(0, 255 , 0));
         jButton10.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton10.setText("tanh");
         jButton10.addActionListener(new java.awt.event.ActionListener() {
@@ -170,7 +170,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton11.setBackground(new java.awt.Color(51, 0, 0));
+        jButton11.setBackground(new java.awt.Color(0, 255 , 0));
         jButton11.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton11.setText("x^3");
         jButton11.addActionListener(new java.awt.event.ActionListener() {
@@ -179,7 +179,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton12.setBackground(new java.awt.Color(51, 0, 0));
+        jButton12.setBackground(new java.awt.Color(0, 255 , 0));
         jButton12.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton12.setText("+/-");
         jButton12.addActionListener(new java.awt.event.ActionListener() {
@@ -188,7 +188,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton13.setBackground(new java.awt.Color(51, 0, 0));
+        jButton13.setBackground(new java.awt.Color(0, 255 , 0));
         jButton13.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton13.setText("clr");
         jButton13.addActionListener(new java.awt.event.ActionListener() {
@@ -197,7 +197,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton14.setBackground(new java.awt.Color(51, 0, 0));
+        jButton14.setBackground(new java.awt.Color(0, 255 , 0));
         jButton14.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jButton14.setText("<-");
         jButton14.addActionListener(new java.awt.event.ActionListener() {
@@ -215,7 +215,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton16.setBackground(new java.awt.Color(51, 0, 0));
+        jButton16.setBackground(new java.awt.Color(0, 255 , 0));
         jButton16.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jButton16.setText("n!");
         jButton16.addActionListener(new java.awt.event.ActionListener() {
@@ -260,7 +260,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton21.setBackground(new java.awt.Color(51, 0, 0));
+        jButton21.setBackground(new java.awt.Color(0, 255 , 0));
         jButton21.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jButton21.setText("n");
         jButton21.addActionListener(new java.awt.event.ActionListener() {
@@ -342,7 +342,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jButton30.setBackground(new java.awt.Color(51, 0, 0));
+        jButton30.setBackground(new java.awt.Color(0, 255 , 0));
         jButton30.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton30.setText("1/x");
         jButton30.addActionListener(new java.awt.event.ActionListener() {
