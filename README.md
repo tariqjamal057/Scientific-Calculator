@@ -7,4 +7,4 @@
 <br>
 <br>
 
-<img src="./Scientific-Calculator/Images/calc.png" alt="Application Demo Image>
+![Demo Image](Scientific-Calculator/Images/calc.png)
